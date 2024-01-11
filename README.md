@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello World, I'm Gérard! 👋
 
-<!--
-**GerryHorror/GerryHorror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a Bachelor's in Computer Science, specialising in Application Development.<br>
+🔍 Passionate about merging business acumen with innovative IT solutions.<br>
+🌐 With a foundation in business and financial management, I'm diving deep into software development.<br>
+💼 My goal is to create software that makes a difference, blending business strategies with the latest tech.<br>
 
-Here are some ideas to get you started:
+## 🚀 Tech Skills
+- Java
+- C#
+- Kotlin
+- React
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gerardblankenberg">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gerardblankenberg" alt="Data Card for Spotify">
+</a>
