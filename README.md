@@ -1,12 +1,8 @@
-# Hello World, I'm Gérard! 👋
-
-🎓 Currently working on my Bachelor's in Computer Science, focusing on Application Development.<br>
-
-🔍 I love finding ways to combine business know-how with cool IT solutions.<br>
-
-🌐 With a business and financial management background, I'm now exploring the world of software development.<br>
-
-💼 My aim is to build software that's not just useful but also makes a real impact by bringing together business strategies and cutting-edge tech.<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fiberoptic&size=30&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+G%C3%A9rard!;%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Application+Developer;%F0%9F%92%BC+Business+%2B+Tech+Enthusiast;%F0%9F%9A%80+Building+Impactful+Software" alt="Typing SVG" />
+  </a>
+</h1>
 
 ## 🚀 Tech Skills
 
