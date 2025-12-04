@@ -15,6 +15,11 @@
 🌐 With a business and financial management background, I'm now exploring the world of software development.<br>
 💼 My aim is to build software that's not just useful but also makes a real impact by bringing together business strategies and cutting-edge tech.
 
+## 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -60,6 +65,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GerryHorror/GerryHorror/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GerryHorror/GerryHorror/output/github-snake.svg">
 </picture>
+
+## 😂 Daily Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
 
 ## 🎵 Currently Vibing To
 
