@@ -53,6 +53,14 @@
   <img src="https://streak-stats.demolab.com/?user=GerryHorror&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
+## 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GerryHorror/GerryHorror/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GerryHorror/GerryHorror/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GerryHorror/GerryHorror/output/github-snake.svg">
+</picture>
+
 ## 🎵 Currently Vibing To
 
 <p align="center">
