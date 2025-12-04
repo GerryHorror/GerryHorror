@@ -16,9 +16,19 @@
 ### IDE/Editors
 <p align="left"> <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> <a href="#"><img alt="PyCharm Community Edition" src="https://img.shields.io/badge/PyCharm%20Community-%231BA8D2.svg?style=for-the-badge&logo=pycharm&logoColor=white"></a> <a href="#"><img alt="IntelliJ IDEA CE" src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a> <a href="#"><img alt="Apache NetBeans" src="https://img.shields.io/badge/Apache%20NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a> </p>
 
-## 🛠️ Most Used Languages
+## 📊 GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerryHorror&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GerryHorror/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GerryHorror/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="GitHub Stats" src="https://github.com/GerryHorror/github-stats/blob/master/generated/overview.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GerryHorror/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GerryHorror/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="Most Used Languages" src="https://github.com/GerryHorror/github-stats/blob/master/generated/languages.svg">
+</picture>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gerardblankenberg">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gerardblankenberg" alt="Data Card for Spotify">
