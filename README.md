@@ -18,8 +18,8 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
-2. 💪 Opened PR [#1](undefined) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
+1. 🎉 Merged PR [#1](https://github.com/GerryHorror/tightbudget-prog7313/pull/1) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
+2. 💪 Opened PR [#1](https://github.com/GerryHorror/tightbudget-prog7313/pull/1) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Achievements
