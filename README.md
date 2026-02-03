@@ -18,8 +18,8 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GerryHorror/tightbudget-prog7313/pull/1) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
-2. 💪 Opened PR [#1](https://github.com/GerryHorror/tightbudget-prog7313/pull/1) in [GerryHorror/tightbudget-prog7313](https://github.com/GerryHorror/tightbudget-prog7313)
+1. 🎉 Merged PR [#48](https://github.com/ST10046280-Blankenberg/healing-in-writing/pull/48) in [ST10046280-Blankenberg/healing-in-writing](https://github.com/ST10046280-Blankenberg/healing-in-writing)
+2. 💪 Opened PR [#48](https://github.com/ST10046280-Blankenberg/healing-in-writing/pull/48) in [ST10046280-Blankenberg/healing-in-writing](https://github.com/ST10046280-Blankenberg/healing-in-writing)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Achievements
