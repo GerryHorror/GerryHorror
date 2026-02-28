@@ -96,6 +96,12 @@ Secure payments portal built on the MERN stack.
 - Building production-ready Android and web apps
 - Improving testing and CI/CD quality across my projects
 
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+_Activity will appear here after the next workflow run._
+
 ## GitHub snapshot
 
 <p align="center">
