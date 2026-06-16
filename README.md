@@ -99,8 +99,8 @@ Secure payments portal built on the MERN stack.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/ST10046280-Blankenberg/healing-in-writing/pull/48) in [ST10046280-Blankenberg/healing-in-writing](https://github.com/ST10046280-Blankenberg/healing-in-writing)
-2. 💪 Opened PR [#48](https://github.com/ST10046280-Blankenberg/healing-in-writing/pull/48) in [ST10046280-Blankenberg/healing-in-writing](https://github.com/ST10046280-Blankenberg/healing-in-writing)
+1. 🎉 Merged PR [#1](https://github.com/GerryHorror/pipboy-portfolio/pull/1) in [GerryHorror/pipboy-portfolio](https://github.com/GerryHorror/pipboy-portfolio)
+2. 💪 Opened PR [#1](https://github.com/GerryHorror/pipboy-portfolio/pull/1) in [GerryHorror/pipboy-portfolio](https://github.com/GerryHorror/pipboy-portfolio)
 <!--END_SECTION:activity-->
 _Activity will appear here after the next workflow run._
 
