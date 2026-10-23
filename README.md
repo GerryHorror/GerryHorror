@@ -99,8 +99,8 @@ Secure payments portal built on the MERN stack.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GerryHorror/MatrixCodeRain/pull/1) in [GerryHorror/MatrixCodeRain](https://github.com/GerryHorror/MatrixCodeRain)
-2. 💪 Opened PR [#1](https://github.com/GerryHorror/MatrixCodeRain/pull/1) in [GerryHorror/MatrixCodeRain](https://github.com/GerryHorror/MatrixCodeRain)
+1. 💪 Opened PR [#3](https://github.com/GerryHorror/pipboy-portfolio/pull/3) in [GerryHorror/pipboy-portfolio](https://github.com/GerryHorror/pipboy-portfolio)
+2. 💪 Opened PR [#2](https://github.com/GerryHorror/pipboy-portfolio/pull/2) in [GerryHorror/pipboy-portfolio](https://github.com/GerryHorror/pipboy-portfolio)
 <!--END_SECTION:activity-->
 _Activity will appear here after the next workflow run._
 
